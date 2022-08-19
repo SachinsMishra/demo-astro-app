@@ -8,7 +8,7 @@ function Nav() {
 				<div className={Styles.monogram}>JW</div>
 			</a>
 			<a className={Styles.link} href="/projects">
-				Portfolio
+				Portfolio - Sachin Mishra
 			</a>
 			<a className={Styles.link} href="/about">
 				About
